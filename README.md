@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Thomas Coding Pages
 
 My blog io link: <https://github-programer.github.io/Thomaswang-coding.io/>
 
@@ -6,9 +6,9 @@ Project Links:
 1. <https://github-programer.github.io/Thomaswang-coding.io/Beautiful-silk-JS-main/indexhtml.html>
 2. <https://github-programer.github.io/Thomaswang-coding.io/particle_storm/index.html>
 
-You can use the [editor on GitHub](https://github.com/Github-Programer/Thomaswang-coding.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+如下是Markdown语法
 
 ### Markdown
 
