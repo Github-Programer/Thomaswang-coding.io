@@ -14,7 +14,7 @@ Also have CSP Learning scheme.
 
 Repository is building...... Issues are welcome    Make a requests is better
 
-If you like this repo, please :star: it or fork it.
+If you like this repo, please  give a star or fork it.
 
 ## 目录
 
