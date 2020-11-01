@@ -6,7 +6,15 @@ Project Links:
 1. <https://github-programer.github.io/Thomaswang-coding.io/Beautiful-silk-JS-main/indexhtml.html>
 2. <https://github-programer.github.io/Thomaswang-coding.io/particle_storm/index.html>
 
-这里有一些项目或者编程笔记、经历，包含C++、Python、前端、C#等语言。
+This repository is use to store some Project or Coding Notes.
+
+Languages about Python C++ 、HTML&CSS&JS、C#
+
+Also have CSP Learning scheme.
+
+Repository is building...... Issues are welcome    Make a requests is better
+
+If you like this repo, please :star: it or fork it.
 
 ## 目录
 
