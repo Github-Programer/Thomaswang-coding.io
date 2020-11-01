@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+My blog io link: <https://github-programer.github.io/Thomaswang-coding.io/>
+
 Project Links:
 1. <https://github-programer.github.io/Thomaswang-coding.io/Beautiful-silk-JS-main/indexhtml.html>
 2. <https://github-programer.github.io/Thomaswang-coding.io/particle_storm/index.html>
